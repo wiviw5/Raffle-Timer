@@ -1,0 +1,8 @@
+{
+    "name": "WiViW Raffle Timers",
+    "description": "Raffle timer.",
+    "author": "WiViW",
+    "entry": "index.js",
+    "version": "0.1.2",
+    "requires": [PromiseV2]
+}
