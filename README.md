@@ -9,3 +9,13 @@ To install, unzip the file and put it into the modules folder `/ct files` then p
 (That folder is also found in your `.minecraft/config/ChatTriggers/modules` folder.)
 
 Versions are found under the releases tab.
+
+Examples:
+
+![Example Picture](https://github.com/wiviw5/Raffle-Timer/blob/991bdf712fa10abbd2050c0a4f0a72ee053e7970/pictures/1.0.png)
+
+
+![Example Picture](https://github.com/wiviw5/Raffle-Timer/blob/991bdf712fa10abbd2050c0a4f0a72ee053e7970/pictures/1.1.png)
+
+
+![Example Picture](https://github.com/wiviw5/Raffle-Timer/blob/991bdf712fa10abbd2050c0a4f0a72ee053e7970/pictures/1.2.png)
