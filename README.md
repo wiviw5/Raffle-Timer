@@ -8,17 +8,4 @@ To install, unzip the file and put it into the modules folder `/ct files` then p
 
 (That folder is also found in your `.minecraft/config/ChatTriggers/modules` folder.)
 
-Versions are included in Messages below:
-
-Version 1.0:
-
-- Both Active and playtime activate exactly 20 minutes after the raffle messages.
-
-Version 1.1
-
-- Playtime warns you exactly at 20 minutes still.
-- Active Warns you 30 seconds before & 20 minutes exactly.
-
-Version 1.2
-
-- Active Warns you 30 seconds before & 20 minutes exactly.
+Versions are found under the releases tab.
