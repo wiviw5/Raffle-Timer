@@ -12,7 +12,7 @@ register("Chat", (event) => {
 function InitiateCountdown() {
 	wait(1170000).then(() => {
 		World.playSound("note.harp", 100, 2);
-		ChatLib.chat(new TextComponent('&b[RAFFLE] &e30 Second Warning forfor: &aActive&e!'))
+		ChatLib.chat(new TextComponent('&b[RAFFLE] &e30 Second Warning for: &aActive&e!'))
 	})
 	wait(1200000).then(() => {
 		World.playSound("note.pling", 100, 2);
