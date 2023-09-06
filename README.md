@@ -1,2 +1,24 @@
 # Raffle-Timer
-An extremely basic Hypixel Raffle Timer.
+An extremely basic [chattriggers](https://www.chattriggers.com/) module for Hypixel Year 300 Event.
+
+Depending on the version, it gives you a 20 minute timer for active/playtime warnings with a 30 second warning as well on some versions.
+
+### Requires [ChatTriggers](https://www.chattriggers.com/)
+To install, unzip the file and put it into the modules folder `/ct files` then put the folder into the modules folder. Then do `/ct load`
+
+(That folder is also found in your `.minecraft/config/ChatTriggers/modules` folder.)
+
+Versions are included in Messages below:
+
+Version 1.0:
+
+- Both Active and playtime activate exactly 20 minutes after the raffle messages.
+
+Version 1.1
+
+- Playtime warns you exactly at 20 minutes still.
+- Active Warns you 30 seconds before & 20 minutes exactly.
+
+Version 1.2
+
+- Active Warns you 30 seconds before & 20 minutes exactly.
